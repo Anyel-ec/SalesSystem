@@ -1,2 +1,42 @@
-# SalesSystem
-This repository contains a PHP-based sales system that efficiently manages sales operations for products or services. This web application utilizes CRUD operations (Create, Read, Update, Delete) to streamline data management and provide an intuitive user experience.
+Key Features:
+
+CRUD Operations: Performs all basic data management operations - Create, Read, Update, and Delete sales and product records.
+
+Sales Management: Records sales for products or services, including details such as date, customer information, sold products, and total amount.
+
+Product Administration: Allows adding new products, editing existing details, and removing products that are no longer available.
+
+Customer Management: Simplifies maintaining the customer list, facilitating the association of sales with specific customers.
+
+Dashboard: Provides an intuitive dashboard for viewing sales statistics and summaries, aiding in decision-making.
+
+Security: Incorporates security measures to protect sensitive data and operations within the application.
+
+User-Friendly Interface: Clean and user-friendly design for easy navigation and usage.
+
+Technologies Used:
+
+Programming Language: PHP
+Database: MySQL
+Frontend: Bootstrap
+Installation Requirements:
+
+Contribution:
+
+Contributions are welcome! If you'd like to contribute to the development of this application, please follow these steps:
+
+Fork the repository.
+Create a branch for your contribution (git checkout -b new-feature).
+Make your changes and commit (git commit -m 'Add new feature').
+Push your changes to your fork (git push origin new-feature).
+Create a Pull Request for your changes to be reviewed.
+License:
+
+This project is under the [License Name]. Refer to the LICENSE.md file for more information.
+
+Author:
+
+Jhon Zambrano, Angel Patiño
+Contact:
+
+jhonmacias1999@gmail.com, paulangel826@gmail.com
